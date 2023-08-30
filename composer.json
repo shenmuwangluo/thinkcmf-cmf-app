@@ -1,0 +1,21 @@
+{
+    "name": "shenmuwangluo/thinkcmf-cmf-app",
+    "description": "The ThinkCMF App Package",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "李国铃",
+            "email": "1277613171@qq.com"
+        }
+    ],
+    "require": {
+        "thinkcmf/cmf": "~5.1.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "app\\": "src"
+        },
+        "files": [
+        ]
+    }
+}
