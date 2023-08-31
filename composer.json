@@ -17,5 +17,10 @@
         },
         "files": [
         ]
+    },
+    "config": {
+        "allow-plugins": {
+            "topthink/think-installer": true
+        }
     }
 }
